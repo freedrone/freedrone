@@ -1,2 +1,2 @@
-Hi,
-You can find me @erancihan
+Hi,<br>
+You can find me [@erancihan](https://github.com/erancihan)
